@@ -55,7 +55,7 @@ GenerateClassCluster=0
 DocumentUniqueId=CFUXOQXP
 
 [Document2]
-DocumentPath=GoodBoy_V1_nRF9160dk_MCU.SchDoc
+DocumentPath=GoodBoy_V1_nRF9160dk_MCU_LTE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -140,23 +140,6 @@ GenerateClassCluster=0
 DocumentUniqueId=NDHGZGWU
 
 [Document7]
-DocumentPath=GoodBoy_V1_nRF9160dk_Power.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=GDVLMKGC
-
-[Document8]
 DocumentPath=GoodBoy_V1_nRF9160dk_sim_connector.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,8 +156,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LLHPLMDJ
 
-[Document9]
-DocumentPath=GoodBoy_V1_nRF9160dk_sim_connector.Harness
+[Document8]
+DocumentPath=GoodBoy_V1_nRF9160dk_button_and_leds.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -188,7 +171,24 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SMJXMIJA
+
+[Document9]
+DocumentPath=GoodBoy_V1_nRF9160dk_Power.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GDVLMKGC
 
 [Document10]
 DocumentPath=PCB1.PcbDoc
@@ -225,7 +225,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document12]
-DocumentPath=GoodBoy_V1_nRF9160dk_button_and_leds.SchDoc
+DocumentPath=GoodBoy_V1_nRF9160dk_sim_connector.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -239,7 +239,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=SMJXMIJA
+DocumentUniqueId=
 
 [Document13]
 DocumentPath=GoodBoy_V1_nRF9160dk_button_and_leds.Harness
